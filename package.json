@@ -1,16 +1,24 @@
 {
-  "dependencies": {
-    "bootstrap": "^5.2.0",
-    "jquery": "^3.6.0"
-  },
-  "name": "php_processar_csv",
-  "version": "1.0.0",
+  "name": "csv_tabela_myzap",
+  "version": "4.0.3",
+  "description": "Converte um csv com contatos para um tabela. Tambem podemos usar os campos de dados como variáveis",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "myzap",
+    "csv",
+    "php",
+    "table",
+    "curl",
+    "api",
+    "whatsapp"
+  ],
+  "author": "Saulo Costa",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1"
+  }
 }
